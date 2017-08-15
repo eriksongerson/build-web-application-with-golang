@@ -94,3 +94,7 @@
 	- 14.6. [pprof](14.6.md)
 	- 14.7. [Summary](14.7.md)
 - Appendix A [References](ref.md)
+
+####Примечание:
+
+Все права на книгу принадлежат пользователю [Astaxie](https://github.com/astaxie) и сообществу [контрибьюторов](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors).
