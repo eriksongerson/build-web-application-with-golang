@@ -1,22 +1,22 @@
 # Multiple Language Versions
 
 * [English](en/preface.md)
-* [French](fr/preface.md)
-* [Spanish](es/preface.md)
-* [中文](zh/preface.md)
-* [日本語](ja/preface.md)
-* [Turkish](tr/preface.md)
-* [Português - Brasil](pt-br/preface.md)
-* [German](de/preface.md)
+<!--* [French] (unavailable)
+* [Spanish] (unavailable)
+* [中文] (unavailable)
+* [日本語] (unavailable)
+* [Turkish] (unavailable)
+* [Português - Brasil] (unavailable)
+* [German] (unavailable)-->
 * [Русский](ru/preface.md)
-* [বাংলা](bn/preface.md)
+<!--* [বাংলা] (unavailable)-->
 
-# Donate
+<!--# Donate
 
 AliPay: <img src="zh/images/alipay.png" alt="alipay" width="100" height="100">
 
 English Donate:[donate](http://beego.me/donate)
-
+-->
 ## Community
 QQ群：148647580
 
